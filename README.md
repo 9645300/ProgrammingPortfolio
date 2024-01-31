@@ -1,6 +1,7 @@
 # Iris' Programming Portfolio 2024
 
 ## Tech Certifications
+* was not taken
 
 ## Group Project
 

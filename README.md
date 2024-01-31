@@ -10,9 +10,7 @@
 
 OOP graphical game useing sound and images for  full user experience
 
-Adress to image
+![Gameplay](Adress to image)
 
-![Gameplay]()
-
-[Source Code]()
+[Source Code](Link to source code)
 

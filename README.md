@@ -7,7 +7,7 @@
 
 ## Individual Projects
 
-### HomePage
+### HomePage 1
 
 OOP graphical game useing sound and images for  full user experience
 
@@ -16,6 +16,15 @@ OOP graphical game useing sound and images for  full user experience
 [Source Code](Link to source code)
 
 https://clearstring.codehs.me
+
+### HomePage 2
+
+OOP graphical game useing sound and images for  full user experience
+
+![Gameplay](Adress to image)
+
+[Source Code](Link to source code)
+
 
 ### Calculator
 

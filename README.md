@@ -17,7 +17,7 @@ OOP graphical game useing sound and images for  full user experience
 
 ### Calculator
 
-OOP graphical game useing graphics and keyboard/mouse listener .for  full user experience.
+OOP graphical game useing graphics and keyboard/mouse listener for full user experience
 
 ![Gameplay](Adress to image)
 
